@@ -1,0 +1,10 @@
+# Local token storage (DO NOT commit your actual tokens to git!)
+github_token.txt
+.env
+.env.local
+.python-version
+__pycache__/
+.pytest_cache/
+*.pyc
+.buildozer/
+bin/
